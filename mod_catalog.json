@@ -1,0 +1,11 @@
+{
+  "mods": [
+    {
+      "name": "QuickSellFlea 1.1.1",
+      "version": "1.1.1",
+      "checksum": "abc123def4567890",
+      "download_url": "https://github.com/Lacyway/QuickSellFlea/releases/tag/v1.1.1",
+      "description": "Tired of placing orders on the flea? Tired of having to install 20 mods to quick sell on flea? Now you can instantly place it with the average price - with just ONE click and no other mods needed!"
+    }
+  ]
+}
